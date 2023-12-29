@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RV_institute/static/css/main.ac721a19.css",
-    "main.js": "/RV_institute/static/js/main.e5cba892.js",
+    "main.css": "/RV_institute/static/css/main.5df3b861.css",
+    "main.js": "/RV_institute/static/js/main.66937d72.js",
     "static/media/background_img.png": "/RV_institute/static/media/background_img.0b8b5131bd9746db1e71.png",
     "static/media/thinking_girl.png": "/RV_institute/static/media/thinking_girl.ada4cd85f5beaa989a0e.png",
     "static/media/math.png": "/RV_institute/static/media/math.af0845686441db6de046.png",
@@ -9,11 +9,11 @@
     "static/media/book.jpg": "/RV_institute/static/media/book.79d777f90c0bfc2b98b9.jpg",
     "static/media/Stack-of-Books.jpg": "/RV_institute/static/media/Stack-of-Books.7724917335ee5f27cfd9.jpg",
     "index.html": "/RV_institute/index.html",
-    "main.ac721a19.css.map": "/RV_institute/static/css/main.ac721a19.css.map",
-    "main.e5cba892.js.map": "/RV_institute/static/js/main.e5cba892.js.map"
+    "main.5df3b861.css.map": "/RV_institute/static/css/main.5df3b861.css.map",
+    "main.66937d72.js.map": "/RV_institute/static/js/main.66937d72.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac721a19.css",
-    "static/js/main.e5cba892.js"
+    "static/css/main.5df3b861.css",
+    "static/js/main.66937d72.js"
   ]
 }
