@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/vedangiitb/RV_institute/static/css/main.485dc605.css",
+    "main.js": "/vedangiitb/RV_institute/static/js/main.e5cba892.js",
+    "static/media/background_img.png": "/vedangiitb/RV_institute/static/media/background_img.0b8b5131bd9746db1e71.png",
+    "static/media/thinking_girl.png": "/vedangiitb/RV_institute/static/media/thinking_girl.ada4cd85f5beaa989a0e.png",
+    "static/media/math.png": "/vedangiitb/RV_institute/static/media/math.af0845686441db6de046.png",
+    "static/media/class.jpeg": "/vedangiitb/RV_institute/static/media/class.9e4b25ddeebd5287b214.jpeg",
+    "static/media/book.jpg": "/vedangiitb/RV_institute/static/media/book.79d777f90c0bfc2b98b9.jpg",
+    "static/media/Stack-of-Books.jpg": "/vedangiitb/RV_institute/static/media/Stack-of-Books.7724917335ee5f27cfd9.jpg",
+    "index.html": "/vedangiitb/RV_institute/index.html",
+    "main.485dc605.css.map": "/vedangiitb/RV_institute/static/css/main.485dc605.css.map",
+    "main.e5cba892.js.map": "/vedangiitb/RV_institute/static/js/main.e5cba892.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.485dc605.css",
+    "static/js/main.e5cba892.js"
+  ]
+}
